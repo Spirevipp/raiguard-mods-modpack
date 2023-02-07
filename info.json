@@ -1,0 +1,40 @@
+{
+	"author": "Spirevipp",
+	"description": "This is a modpack that just contains all of Raiguards QOL mods for easy install. Missing anything? Open a PR or issue on github",
+	"factorio_version": "1.1",
+	"homepage": "https://github.com/Spirevipp/raiguard-mods-modpack",
+	"name": "raiguard-mods-modpack",
+	"title": "Raiguard Mods Modpack",
+	"version": "1.0.0",
+	"dependencies": [
+		"base >= 1.1",
+		"flib",
+		"RateCalculator",
+		"RecipeBook",
+		"StatsGui",
+		"BottleneckLite",
+		"EditorExtensions",
+		"QuickItemSearch",
+		"Tapeline",
+		"TaskList",
+		"PipeVisualizer",
+		"CursorEnhancements",
+		"BlueprintTools",
+		"BetterAlertArrows",
+		"UltimateResearchQueue",
+		"ColorCodedPlanners",
+		"? QuickbarTemplates",
+		"? PlacementGuide",
+		"? EvenDistributionLite",
+		"? MouseOverConstruction",
+		"? TrainGroups"
+	],
+	"package": {
+		"git_publish_branch": "main",
+		"ignore": [],
+		"scripts": {},
+		"no_git_push": true,
+		"no_git_tag": true,
+		"no_portal_upload": true
+	}
+}
